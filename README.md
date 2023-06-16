@@ -5,8 +5,7 @@
 To Redirect the scene in the unity engine.
 ## Algorithm:
 
-## Program:
-```
+
 ### Step 1 :
 Create a new 3D scene in the unity and save it as Level1.
 
@@ -41,6 +40,7 @@ Slect the cube inspector , add the text object in the WinText feild under the C#
 Compile and run the program, as a result when the sphere falls on the cube ,it gets disappeared and the text message will pop up on the scene . On clicking "R",the level1 scene will be redirected to Level2 scene.
 
 ## Program:
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
